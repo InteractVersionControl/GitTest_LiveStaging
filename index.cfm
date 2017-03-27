@@ -15,4 +15,4 @@ quick fix
 David change
 Normal  Commit 1
 quickfix conflict 2
-
+Normal  Commit - 2
