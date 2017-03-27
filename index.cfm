@@ -14,3 +14,4 @@ st456
 quick fix
 David change
 Normal  Commit 1
+Normal  Commit 2
